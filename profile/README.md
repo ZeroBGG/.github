@@ -1,6 +1,8 @@
-# [ZeroGG](https://crocus-dollar-f86.notion.site/731f4ddce1ac49538a27b658aaa1520f)
+# [ZeroGG](https://zero-gg.vercel.app/)
 
 프로젝트 소개: 롤 전적검색, 듀오찾기, LCK 팀정보를 확인할 수 있는 플랫폼입니다.
+
+- [배포 -> ZeroGG](https://zero-gg.vercel.app/)
 - [팀 프로젝트 관리 -> Notion](https://crocus-dollar-f86.notion.site/731f4ddce1ac49538a27b658aaa1520f)
 <br><br>
 
@@ -26,13 +28,19 @@
 ## 📽️ 기능 화면
 
 ## 🕵️ 팀원 소개
-🧑 유형준(Front-end) 👉 https://github.com/HyungJun-Yoo
-<br>
-🧑 양성진 (Front-end) 👉 https://github.com/Yangs1s
-<br>
-🧑 유영빈 (Front-end) 👉 https://github.com/BTSBRINGMEHERE
 
-<br><br>
+🧑 유형준(Front-end) 👉 https://github.com/HyungJun-Yoo
+- 역할: 메인 페이지, 전적 검색 페이지
+<br>
+
+🧑 양성진 (Front-end) 👉 https://github.com/Yangs1s
+- 역할: LCK 페이지
+<br>
+
+🧑 유영빈 (Front-end) 👉 https://github.com/BTSBRINGMEHERE
+- 역할: 듀오 찾기 페이지
+
+<br>
 
 ## 🛠️ Skills
 ### Front-End
