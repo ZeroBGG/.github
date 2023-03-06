@@ -189,10 +189,14 @@ LCK 페이지 - 무한 스크롤
 ## 🛠️ Skills
 ### Front-End
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SaSS&logoColor=white">
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"> 
-<img src="https://img.shields.io/badge/react%20zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=2361DAFB">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/Zustand-FF4154?style=for-the-badge&logo=React Table&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
+
+### Back-End
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=Serverless&logoColor=white">
+
 
 
 ### Collaboration tool
