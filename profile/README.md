@@ -3,7 +3,7 @@
 
 <br />
 
-프로젝트 소개: 롤 전적검색, 듀오찾기, LCK 팀정보를 확인할 수 있는 플랫폼입니다.
+프로젝트 소개: 롤 전적검색, 듀오찾기, LCK 팀스쿼드 및 일정을 확인할 수 있는 플랫폼입니다.
 
 - [배포 사이트 -> ZeroGG](https://zero-gg.vercel.app/)
 - [팀 프로젝트 관리 -> Notion](https://crocus-dollar-f86.notion.site/731f4ddce1ac49538a27b658aaa1520f)
