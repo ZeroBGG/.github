@@ -26,6 +26,8 @@
 - LCK 팀로스터 정보를 확인할 수 있습니다.
 - LCK 경기 일정을 확인할 수 있습니다. (월별, 팀별 필터 가능)
 
+<br>
+
 ## 📽️ 기능 화면
 <table align="center">
 <thead>
@@ -197,7 +199,8 @@ LCK 페이지 - 무한 스크롤
 ### Back-End
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=Serverless&logoColor=white">
 
-
+### Rule
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
 
 ### Collaboration tool
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
@@ -207,7 +210,8 @@ LCK 페이지 - 무한 스크롤
 <br><br>
 
 ## ⚙️ Architecture
-![zero-gg](https://user-images.githubusercontent.com/70789958/218142845-7dbae02c-d5ea-4938-9c08-37a70a0e1dd6.png)
+![zero-gg](https://user-images.githubusercontent.com/70789958/223025297-2e6afe7b-c54e-4472-9301-bae385574d03.png)
+
 
 
 
