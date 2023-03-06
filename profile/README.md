@@ -179,12 +179,12 @@ LCK 페이지 - 무한 스크롤
 - 역할: 메인 페이지, 전적 검색 페이지
 <br>
 
-🧑 양성진 (Front-end) 👉 https://github.com/Yangs1s
-- 역할: LCK 페이지
-<br>
-
 🧑 유영빈 (Front-end) 👉 https://github.com/BTSBRINGMEHERE
 - 역할: 듀오 찾기 페이지
+<br>
+
+🧑 양성진 (Front-end) 👉 https://github.com/Yangs1s
+- 역할: LCK 페이지
 
 <br>
 
